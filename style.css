@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.rectangle{
+    height: 300px;
+    width: 400px;
+    border:1.5px solid black;
+}
+.centre{
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
